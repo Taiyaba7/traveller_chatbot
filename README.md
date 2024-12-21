@@ -88,10 +88,6 @@ Contributions are welcome! To contribute:
 3. Commit your changes and push the branch.
 4. Open a pull request and describe your changes.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgements
 
 - OpenAI for NLP support.
